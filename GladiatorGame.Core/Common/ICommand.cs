@@ -4,6 +4,6 @@ public interface ICommand
 {
     int EntityId { get; }
     int TimeCost { get; }
-    string CommandType { get; }
+    CommandType CommandType { get; }
 
 }
