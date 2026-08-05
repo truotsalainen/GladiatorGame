@@ -4,5 +4,5 @@ namespace GladiatorGame.Core.Actions;
 
 public interface IActionExecutor
 {
-    public CommandResult ExecuteAction(ActionDefinition a, int sourceEntityId, int targetEntityId);
+    public CommandResult ExecuteAction(ActionDefinition action, int sourceEntityId, int targetEntityId);
 }
