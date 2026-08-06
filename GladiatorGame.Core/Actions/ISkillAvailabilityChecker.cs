@@ -1,3 +1,5 @@
+using GladiatorGame.Core;
+
 namespace GladiatorGame.Core.Actions;
 
 public interface ISkillAvailabilityChecker

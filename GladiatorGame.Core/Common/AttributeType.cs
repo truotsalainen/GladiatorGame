@@ -1,4 +1,4 @@
-namespace GladiatorGame.Core.Actions;
+namespace GladiatorGame.Core.Common;
 
 public enum AttributeType
 {
